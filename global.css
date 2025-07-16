@@ -46,36 +46,36 @@ a, p, li, .text-p > h3 {
     font-family: "BioRhyme";
     font-style: normal;
     font-weight: 300;
-    src: url(/fonts/BioRhyme/BioRhyme-Regular.ttf) format("truetype");
+    src: url(./fonts/BioRhyme/BioRhyme-Regular.ttf) format("truetype");
 }
 @font-face {
     font-family: "BioRhyme";
     font-style: light;
     font-weight: 300;
-    src: url(/fonts/BioRhyme/BioRhyme-Light.ttf) format("truetype");
+    src: url(./fonts/BioRhyme/BioRhyme-Light.ttf) format("truetype");
 }
 @font-face {
     font-family: "BioRhyme";
     font-style: bold;
     font-weight: 300;
-    src: url(/fonts/BioRhyme/BioRhyme-Bold.ttf) format("truetype");
+    src: url(./fonts/BioRhyme/BioRhyme-Bold.ttf) format("truetype");
 }
 
 @font-face {
     font-family: "JosefinSlab";
     font-style: normal;
     font-weight: 400;
-    src: url(/fonts/Josefin_Slab/JosefinSlab-Regular.ttf) format("truetype");
+    src: url(./fonts/Josefin_Slab/JosefinSlab-Regular.ttf) format("truetype");
 }
 @font-face {
     font-family: "JosefinSlab";
     font-style: italic;
     font-weight: 400;
-    src: url(/fonts/Josefin_Slab/JosefinSlab-Italic.ttf) format("truetype");
+    src: url(./fonts/Josefin_Slab/JosefinSlab-Italic.ttf) format("truetype");
 }
 @font-face {
     font-family: "JosefinSlab";
     font-style: bold;
     font-weight: 400;
-    src: url(/fonts/Josefin_Slab/JosefinSlab-Bold.ttf) format("truetype");
+    src: url(./fonts/Josefin_Slab/JosefinSlab-Bold.ttf) format("truetype");
 }
