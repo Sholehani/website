@@ -104,6 +104,11 @@ a:hover {
     justify-content: center;
     column-gap: 2vw;
 }
+#resume-title > h1 {
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
 
 #project-page {
     position: relative;
