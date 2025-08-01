@@ -138,7 +138,6 @@ section {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    column-gap: 18vw;
 }
 section > h2 {
     min-width: 15vw;
@@ -378,6 +377,9 @@ section > h2 {
     #home-social {
         margin-top: 18vh;
     }
+    section {
+        column-gap: 15vw;
+    }
 }
 
 @media screen and (max-device-width: 479px) {
@@ -399,5 +401,8 @@ section > h2 {
     }
     .page-img {
         height: 12vh;
+    }
+    section {
+        column-gap: 18vw;
     }
 }
